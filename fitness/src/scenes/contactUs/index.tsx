@@ -68,7 +68,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             <form
               target="_blank"
               onSubmit={onSubmit}
-              action="https://formsubmit.co/e8a5bdfa807605332f809e5656e27c6e"
+              action="https://formsubmit.co/f5fd45e302980a6ec48294565412938e"
               method="POST"
             >
               <input
